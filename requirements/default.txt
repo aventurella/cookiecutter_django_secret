@@ -1,1 +1,1 @@
-jinja2>=2.4
+cookiecutter==dev

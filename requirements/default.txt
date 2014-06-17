@@ -1,1 +1,1 @@
-cookiecutter==dev
+cookiecutter==0.8.0
